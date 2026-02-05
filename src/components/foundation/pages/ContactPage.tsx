@@ -59,7 +59,7 @@ const ContactPage: React.FC<ContactPageProps> = ({ onNavigate }) => {
               Contact Us
             </h1>
             <p className="text-white/80 text-lg leading-relaxed">
-              Have questions about the Abbas Shaffi Foundation? We're here to help. 
+              Have questions about the Abbas Shafii Foundation? We're here to help. 
               Reach out to our team for general inquiries, media requests, or feedback.
             </p>
           </div>
@@ -78,7 +78,7 @@ const ContactPage: React.FC<ContactPageProps> = ({ onNavigate }) => {
             <div>
               <p className="font-semibold text-[#2C2C2C]">Important Notice</p>
               <p className="text-gray-600 text-sm">
-                The Abbas Shaffi Foundation does not accept grant applications. Please do not submit 
+                The Abbas Shafii Foundation does not accept grant applications. Please do not submit 
                 requests for funding through this contact form. For information about our giving 
                 process, please visit our <button onClick={() => onNavigate('how-it-works')} className="text-[#1A365D] underline">How It Works</button> page.
               </p>
@@ -123,8 +123,7 @@ const ContactPage: React.FC<ContactPageProps> = ({ onNavigate }) => {
                   <div>
                     <h3 className="font-semibold text-[#2C2C2C] mb-1">Email</h3>
                     <p className="text-gray-600 text-sm">
-                      General: info@abbasshaffifoundation.org<br />
-                      Press: press@abbasshaffifoundation.org
+                      General: info@abbasshafii.com<br />l
                     </p>
                   </div>
                 </div>
@@ -264,7 +263,7 @@ const ContactPage: React.FC<ContactPageProps> = ({ onNavigate }) => {
                         className="mt-1 w-4 h-4 text-[#1A365D] border-gray-300 rounded focus:ring-[#1A365D]"
                       />
                       <label htmlFor="consent" className="text-sm text-gray-600">
-                        I understand that the Abbas Shaffi Foundation does not accept grant applications 
+                        I understand that the Abbas Shafii Foundation does not accept grant applications 
                         through this form and that my inquiry will be handled according to the foundation's 
                         privacy policy.
                       </label>

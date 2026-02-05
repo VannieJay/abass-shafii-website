@@ -56,7 +56,7 @@ const AdminLogin: React.FC<AdminLoginProps> = ({ onBack }) => {
               <span className="font-serif font-bold text-2xl text-[#D4AF37]">AS</span>
             </div>
             <h1 className="font-serif text-2xl font-bold text-[#2C2C2C]">Admin Portal</h1>
-            <p className="text-gray-500 text-sm mt-1">Abbas Shaffi Foundation</p>
+            <p className="text-gray-500 text-sm mt-1">Abbas Shafii Foundation</p>
           </div>
 
           {/* Error Message */}
@@ -79,7 +79,7 @@ const AdminLogin: React.FC<AdminLoginProps> = ({ onBack }) => {
                 onChange={(e) => setEmail(e.target.value)}
                 required
                 className="w-full px-4 py-3 rounded-lg border border-gray-200 focus:outline-none focus:ring-2 focus:ring-[#1A365D]/20 focus:border-[#1A365D] transition-colors"
-                placeholder="admin@abbasshaffifoundation.org"
+                placeholder="admin@abbasshafii.com"
               />
             </div>
 

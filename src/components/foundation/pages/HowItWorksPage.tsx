@@ -147,7 +147,7 @@ const HowItWorksPage: React.FC<HowItWorksPageProps> = ({ onNavigate }) => {
               <h3 className="font-serif text-2xl font-bold mb-6">What This Means for You</h3>
               <ul className="space-y-4">
                 {[
-                  'You cannot apply for a grant from the Abbas Shaffi Foundation',
+                  'You cannot apply for a grant from the Abbas Shafii Foundation',
                   'There is no form to fill out, no essay to write, no references to provide',
                   'Your eligibility is based solely on being 18+ years old',
                   'Selection is completely random and cannot be influenced',

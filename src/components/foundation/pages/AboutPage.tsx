@@ -40,7 +40,7 @@ const AboutPage: React.FC<AboutPageProps> = ({ onNavigate }) => {
               Redefining Global Philanthropy Through Transparent Giving
             </h1>
             <p className="text-white/80 text-lg leading-relaxed">
-              The Abbas Shaffi Foundation was established with a singular vision: to create 
+              The Abbas Shafii Foundation was established with a singular vision: to create 
               meaningful, lasting change in the lives of individuals worldwide through strategic, 
               unbiased, and transparent giving.
             </p>
@@ -57,7 +57,7 @@ const AboutPage: React.FC<AboutPageProps> = ({ onNavigate }) => {
                 Our Mission
               </h2>
               <p className="text-gray-600 text-lg leading-relaxed mb-6">
-                The Abbas Shaffi Foundation exists to uplift the poor, expand sustainable businesses, 
+                The Abbas Shafii Foundation exists to uplift the poor, expand sustainable businesses, 
                 restore hope to societies, and create meaningful change through strategic global giving 
                 and random acts of kindness.
               </p>

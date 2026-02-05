@@ -91,7 +91,7 @@ const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
             </h1>
 
             <p className="text-white/80 text-lg md:text-xl leading-relaxed mb-10 max-w-2xl">
-              The Abbas Shaffi Foundation exists to uplift the poor, expand sustainable businesses, 
+              The Abbas Shafii Foundation exists to uplift the poor, expand sustainable businesses, 
               restore hope to societies, and create meaningful change through transparent global giving.
             </p>
 
@@ -319,7 +319,7 @@ const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
             A New Paradigm in Global Philanthropy
           </h2>
           <p className="text-white/80 text-lg leading-relaxed mb-10 max-w-2xl mx-auto">
-            The Abbas Shaffi Foundation represents a commitment to transparent, unbiased giving 
+            The Abbas Shafii Foundation represents a commitment to transparent, unbiased giving 
             that reaches those who need it most, regardless of their ability to navigate traditional 
             grant application processes.
           </p>

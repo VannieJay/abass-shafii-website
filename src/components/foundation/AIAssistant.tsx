@@ -17,7 +17,7 @@ const AIAssistant: React.FC = () => {
   const [messages, setMessages] = useState<Message[]>([
     {
       role: 'assistant',
-      content: 'Welcome to the Abbas Shaffi Foundation. I\'m here to answer your questions about our mission, giving process, and eligibility. How can I help you today?',
+      content: 'Welcome to the Abbas Shafii Foundation. I\'m here to answer your questions about our mission, giving process, and eligibility. How can I help you today?',
     },
   ]);
   const [input, setInput] = useState('');
@@ -65,7 +65,7 @@ const AIAssistant: React.FC = () => {
         ...prev,
         {
           role: 'assistant',
-          content: 'I apologize, but I\'m experiencing technical difficulties. Please try again later or contact us directly at info@abbasshaffifoundation.org.',
+          content: 'I apologize, but I\'m experiencing technical difficulties. Please try again later or contact us directly at info@abbasshafii.com.',
         },
       ]);
     } finally {

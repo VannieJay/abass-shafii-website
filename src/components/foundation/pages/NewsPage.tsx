@@ -25,7 +25,7 @@ const NewsPage: React.FC<NewsPageProps> = ({ onNavigate }) => {
               News & Announcements
             </h1>
             <p className="text-white/80 text-lg leading-relaxed">
-              The latest updates from the Abbas Shaffi Foundation, including program announcements, 
+              The latest updates from the Abbas Shafii Foundation, including program announcements, 
               award cycle updates, and stories of impact.
             </p>
           </div>
@@ -45,7 +45,7 @@ const NewsPage: React.FC<NewsPageProps> = ({ onNavigate }) => {
                 First Award Cycle Launching Q1 2025
               </h2>
               <p className="text-gray-600 leading-relaxed mb-6">
-                The Abbas Shaffi Foundation is proud to announce the launch of our inaugural 
+                The Abbas Shafii Foundation is proud to announce the launch of our inaugural 
                 award cycle. Beginning in Q1 2025, we will select 3-5 recipients to receive 
                 life-changing grants ranging from $500,000 to $5,000,000. This marks the 
                 beginning of our mission to transform lives through transparent, unbiased giving.
@@ -211,7 +211,7 @@ const NewsPage: React.FC<NewsPageProps> = ({ onNavigate }) => {
             <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
             </svg>
-            <span className="font-medium">press@abbasshaffifoundation.org</span>
+            <span className="font-medium">info@abbasshafii.com</span>
           </div>
         </div>
       </section>

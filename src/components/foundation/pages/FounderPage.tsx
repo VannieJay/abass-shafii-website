@@ -17,7 +17,7 @@ const FounderPage: React.FC<FounderPageProps> = ({ onNavigate }) => {
               Abbas Shafii
             </h1>
             <p className="text-white/80 text-lg leading-relaxed">
-              Philanthropist, visionary, and founder of the Abbas Shaffi Foundation. 
+              Philanthropist, visionary, and founder of the Abbas Shafii Foundation. 
               Committed to transforming lives through strategic, transparent global giving.
             </p>
           </div>
@@ -85,7 +85,7 @@ const FounderPage: React.FC<FounderPageProps> = ({ onNavigate }) => {
 
                 <p className="leading-relaxed mb-6">
                   Within weeks of claiming his prize, Abbas began laying the groundwork for what would 
-                  become the Abbas Shaffi Foundation. His vision was clear from the start: create a 
+                  become the Abbas Shafii Foundation. His vision was clear from the start: create a 
                   philanthropic organization that would operate differently from traditional charities—one 
                   that would eliminate bias, ensure transparency, and reach those who need help most, 
                   regardless of their ability to navigate complex application processes.
@@ -105,7 +105,7 @@ const FounderPage: React.FC<FounderPageProps> = ({ onNavigate }) => {
                 <p className="leading-relaxed mb-6">
                   This philosophy led to the foundation's unique approach: random selection. By removing 
                   the application process entirely and using cryptographically secure randomization to 
-                  select recipients, the Abbas Shaffi Foundation ensures that a farmer in rural Kenya 
+                  select recipients, the Abbas Shafii Foundation ensures that a farmer in rural Kenya 
                   has the same chance of receiving support as a struggling entrepreneur in New York City.
                 </p>
 
@@ -237,7 +237,7 @@ const FounderPage: React.FC<FounderPageProps> = ({ onNavigate }) => {
             Learn More About Our Work
           </h2>
           <p className="text-gray-600 text-lg mb-10">
-            Discover how the Abbas Shaffi Foundation is creating a new paradigm in global philanthropy.
+            Discover how the Abbas Shafii Foundation is creating a new paradigm in global philanthropy.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <button

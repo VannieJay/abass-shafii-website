@@ -126,7 +126,7 @@ const TransparencyPage: React.FC<TransparencyPageProps> = ({ onNavigate }) => {
               <div>
                 <h3 className="font-bold text-red-800 text-lg mb-2">Important Fraud Warning</h3>
                 <p className="text-red-700 leading-relaxed">
-                  The Abbas Shaffi Foundation will <strong>NEVER</strong> ask you for money, fees, 
+                  The Abbas Shafii Foundation will <strong>NEVER</strong> ask you for money, fees, 
                   or personal financial information. If anyone contacts you claiming to be from 
                   the foundation and requests payment, it is a scam. Please report such incidents 
                   to us immediately.
@@ -139,7 +139,7 @@ const TransparencyPage: React.FC<TransparencyPageProps> = ({ onNavigate }) => {
             {[
               {
                 title: 'Official Communications Only',
-                description: 'All legitimate communications come from official @abbasshaffifoundation.org email addresses.',
+                description: 'All legitimate communications come from official @abbasshafii.com email addresses.',
                 icon: (
                   <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
@@ -274,7 +274,7 @@ const TransparencyPage: React.FC<TransparencyPageProps> = ({ onNavigate }) => {
           </h2>
           <div className="space-y-6 text-white/80 text-lg leading-relaxed">
             <p>
-              The Abbas Shaffi Foundation is committed to the highest standards of ethical 
+              The Abbas Shafii Foundation is committed to the highest standards of ethical 
               conduct in all our operations. We believe that philanthropy must be conducted 
               with integrity, transparency, and respect for the dignity of all individuals.
             </p>

@@ -22,7 +22,7 @@ const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
               <div className="w-10 h-10 rounded-full bg-[#D4AF37]/20 flex items-center justify-center">
                 <span className="font-serif font-bold text-lg text-[#D4AF37]">AS</span>
               </div>
-              <span className="font-serif text-lg font-semibold">Abbas Shaffi Foundation</span>
+              <span className="font-serif text-lg font-semibold">Abbas Shafii Foundation</span>
             </div>
             <p className="text-white/70 text-sm leading-relaxed mb-6">
               Dedicated to uplifting communities worldwide through strategic, transparent, and unbiased giving.
@@ -108,7 +108,7 @@ const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
                     d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"
                   />
                 </svg>
-                <span>info@abbasshaffifoundation.org</span>
+                <span>info@abbasshafii.com</span>
               </li>
             </ul>
           </div>
@@ -120,7 +120,7 @@ const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
         <div className="max-w-7xl mx-auto px-6 lg:px-8 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-white/50 text-sm">
-              © 2025 Abbas Shaffi Foundation. All rights reserved.
+              © 2025 Abbas Shafii Foundation. All rights reserved.
             </p>
             <div className="flex space-x-6 text-sm text-white/50">
               <button className="hover:text-white transition-colors">Privacy Policy</button>

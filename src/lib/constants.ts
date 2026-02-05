@@ -102,7 +102,7 @@ export const GRANT_TIERS = [
 export const NEWS_ARTICLES = [
   {
     id: 1,
-    title: 'Abbas Shaffi Foundation Announces Launch of Global Giving Initiative',
+    title: 'Abbas Shafii Foundation Announces Launch of Global Giving Initiative',
     date: 'January 15, 2025',
     excerpt: 'Following the historic Powerball win, Abbas Shafii establishes a new paradigm in philanthropic giving with a commitment to transparent, unbiased global support.',
     category: 'Announcement',
@@ -125,7 +125,7 @@ export const NEWS_ARTICLES = [
     id: 4,
     title: 'Foundation Headquarters Established in Oregon',
     date: 'February 1, 2025',
-    excerpt: 'The Abbas Shaffi Foundation opens its official headquarters, establishing a permanent home for operations and community engagement.',
+    excerpt: 'The Abbas Shafii Foundation opens its official headquarters, establishing a permanent home for operations and community engagement.',
     category: 'Foundation News',
   },
 ];
@@ -154,7 +154,7 @@ export const TRANSPARENCY_PRINCIPLES = [
 export const FAQ_ITEMS = [
   {
     question: 'How can I apply for a grant?',
-    answer: 'The Abbas Shaffi Foundation does not accept applications. Recipients are selected through our proprietary random selection engine to ensure complete fairness and eliminate any possibility of bias or influence.',
+    answer: 'The Abbas Shafii Foundation does not accept applications. Recipients are selected through our proprietary random selection engine to ensure complete fairness and eliminate any possibility of bias or influence.',
   },
   {
     question: 'Who is eligible to receive a grant?',

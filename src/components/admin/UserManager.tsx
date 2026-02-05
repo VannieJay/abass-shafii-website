@@ -187,7 +187,7 @@ const UserManager: React.FC = () => {
                   value={newUser.email}
                   onChange={(e) => setNewUser({ ...newUser, email: e.target.value })}
                   className="w-full px-4 py-2 rounded-lg border border-gray-200 focus:outline-none focus:ring-2 focus:ring-[#1A365D]/20"
-                  placeholder="user@abbasshaffifoundation.org"
+                  placeholder="user@abbasshafii.com"
                 />
               </div>
               <div>

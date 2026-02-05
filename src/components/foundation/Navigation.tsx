@@ -51,7 +51,7 @@ const Navigation: React.FC<NavigationProps> = ({ currentPage, onNavigate }) => {
               <p className={`font-serif text-lg font-semibold tracking-tight transition-colors ${
                 isScrolled ? 'text-[#2C2C2C]' : 'text-white'
               }`}>
-                Abbas Shaffi Foundation
+                Abbas Shafii Foundation
               </p>
             </div>
           </button>
